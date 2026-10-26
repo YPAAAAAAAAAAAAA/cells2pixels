@@ -1,0 +1,20 @@
+{
+  "id": "cells2pixels",
+  "title": {
+    "en": "Cells2Pixels",
+    "zh": "细胞化像素"
+  },
+  "intro": {
+    "en": "Paint a living cell garden. Cut through its glowing patterns and watch new life grow into the gaps.",
+    "zh": "绘出一座活的细胞花园。划开荧光纹理，看新生命在空隙中生长。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/cells.js",
+    "vendor/cells.css",
+    "vendor/LICENSE.txt"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "ypaaaaaaaaaaaaa/cells2pixels"
+}
